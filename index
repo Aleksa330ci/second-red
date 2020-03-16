@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, inital-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="scss/_part-of-illia.scss">
+
+
+
+    <title>Title</title>
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-12 col-sm-6 col-lg-9">
+            <h3>Our Executive</h3>
+            <h4>Expert Team</h4>
+<p>Leather and leather good exporters are gung-ho about hitting $5 billion in export <br>
+    receipts by 2022 if the government manages the Leather Working Group’s
+    <br> certification at the earliest, according to industry insiders.</p>
+        </div>
+        <div class="col-12 col-sm-3 col-md-6 col-lg-3">
+            <a href="#" class="btn btn-danger">
+                View All
+            </a>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-lg-3 col-md-6 col-sm-12">
+            <img src="img/beautiful-brunette-cute-774909.png" alt="" class="img-fluid">
+            <div class="card-body">
+                <h5 class="card-title">Birgit Schreiner</h5>
+                <p class="card-text">OWNER</p>
+            </div>
+        </div>
+
+            <div class="col-lg-3 col-md-6 col-sm-12"> <img src="img/lucas-sankey-9R-CH7PR150-unsplash.png" alt="" class="img-fluid">
+                <div class="card-body">
+                    <h5 class="card-title">Bernd Frey</h5>
+                    <p class="card-text">CUSTOMER CARE</p>
+                </div>
+            </div>
+
+                <div class="col-lg-3 col-md-6 col-sm-12"> <img src="img/benjamin-parker-OhKElOkQ3RE-unsplash.png" alt="" class="img-fluid">
+                    <div class="card-body">
+                        <h5 class="card-title">Jan Baier</h5>
+                        <p class="card-text">CO-FOUNDER</p>
+                    </div>
+                </div>
+
+                    <div class="col-lg-3 col-md-6 col-sm-12"> <img src="img/adult-beautiful-digital-nomad-1181496.png" alt="" class="img-fluid">
+                        <div class="card-body">
+                            <h5 class="card-title">Katharina Zimmer</h5>
+                            <p class="card-text">SPECIALIST</p>
+                        </div>
+                    </div>
+    </div>
+</div>
+
+
+
+
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="index.pack.js"></script>
+</body>
+</html>
